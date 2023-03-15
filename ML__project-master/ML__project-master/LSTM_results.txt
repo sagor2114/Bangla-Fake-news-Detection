@@ -1,0 +1,3 @@
+                                Overall               #               Fake                
+                   precision    recall      f1-score  #  precision    recall      f1-score
+LSTM               0.97         0.90        0.93      #  0.58         0.81         0.68
